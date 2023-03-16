@@ -2,3 +2,4 @@
 拉取成功了吗？
 ubuntu 测试1
 test 2
+test successed
